@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinpandeygurh/Ecommarce-MERN-Website.git#main"
+  },
+  "author": "Sachin Pandey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sachinpandeygurh/Ecommarce-MERN-Website/issues"
+  },
+  "homepage": "https://github.com/sachinpandeygurh/Ecommarce-MERN-Website/tree/main#readme"
+}
