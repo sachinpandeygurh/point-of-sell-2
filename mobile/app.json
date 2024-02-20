@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "manvika-Tiffins-Services",
+    "slug": "manvika-tiffin-system",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.manasvigroup.manvikatiffinsystem"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.manasvigroup.manvikatiffinsystem"
+    },
+    "scheme": "manvika-tiffin-system",
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "d2ada657-a3d3-4484-a917-24ca2c1adc59"
+      }
+    },
+    "owner": "manasvigroup"
+  }
+}

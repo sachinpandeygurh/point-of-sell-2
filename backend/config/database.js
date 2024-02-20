@@ -14,6 +14,3 @@ const connectDatabase = () => {
 };
 
 module.exports = connectDatabase;
-
-// mongodb+srv://sachinpandey12031999:123@cluster0.e4qlyop.mongodb.net/
-// http://localhost:4000/api/v1/product/new
